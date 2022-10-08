@@ -1,3 +1,14 @@
-body {
-    background-color: blue;
+header h1,
+main .user_info {
+      background-color: lightgray;
+      border-radius: 1rem;
+}
+
+.w_center {
+      width: 80%;
+      margin: auto;
+}
+
+#ticket_card {
+      display: none;
 }
